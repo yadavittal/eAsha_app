@@ -19,9 +19,6 @@ import profile from "../../assets/icons/profile.png";
 import rating from "../../assets/icons/star.png";
 import steth from "../../assets/icons/steth.png";
 import maps from "../../assets/icons/Maps.png";
-import Sidebar from "../Sidebar/SideBar";
-import eashalog from "../../assets/eashalog.png";
-import bookread from "../../assets/bookreading.png";
 import { useNavigate } from "react-router-dom";
 import styles from './DBoard.module.css';
 
